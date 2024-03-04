@@ -7,13 +7,13 @@
 #include<algorithm>
 using namespace std;
 
-string leadingZero(string s);
-void fun(string num,int k);
-int biggerOne(string n1,string n2);
-void fun2(string &s,int k);
-void sameSize(int &sz1,int &sz2,string &n1, string &n2);
-string Sub(string &n1,string &n2);
-string Add(string& n1,string& n2);
+string removeleadingZeros(string str);
+void digitsUpdate1(string num , int idx);
+void digitsUpdate2(string& num , int idx);
+int biggerOne(string num1 , string num2);
+void equalize(int& sz1,int& sz2,string& num1, string& num2);
+string Sub(string& num1,string& num2);
+string Add(string& num1,string& num2);
 bool reg(string n);
 string remove_zeros(string number);
 
