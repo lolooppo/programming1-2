@@ -8,6 +8,6 @@ Feel free to explore the code, provide feedback, or even fork the repository to 
 Happy coding! 💻✨
 
 ## Projects:
-  --BigDecimal
-  --BigReal
-  --TaskManager
+  -- BigDecimal
+  -- BigReal
+  -- TaskManager
