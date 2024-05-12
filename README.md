@@ -6,3 +6,8 @@ Here, you'll find a collection of my projects and assignments completed througho
 Feel free to explore the code, provide feedback, or even fork the repository to continue the learning journey together! Your insights and contributions are highly appreciated.
 
 Happy coding! 💻✨
+
+## Projects:
+  --BigDecimal
+  --BigReal
+  --TaskManager
