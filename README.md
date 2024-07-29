@@ -1,5 +1,5 @@
 # programming1&2 assignments
-Welcome to the repository for my Programming 1, Programming 2 university course assignments and some side projects! 🚀
+Welcome to the repository for my Programming 1, Programming 2 university course in the second year assignments and some side projects! 🚀
 
 Here, you'll find a collection of my projects and assignments completed throughout these courses. From introductory concepts in Programming 1 to more advanced topics covered in Programming 2, this repository showcases my journey in mastering fundamental programming principles and problem-solving skills.
 
